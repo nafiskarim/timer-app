@@ -1,1 +1,1 @@
-a simple react boilerplate app
+my timer app using react and foundation
